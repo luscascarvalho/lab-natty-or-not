@@ -7,7 +7,6 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 📒 Descrição
 Este ebook aborda a importância do CSS na criação de páginas web, destacando seus principais aspectos e benefícios.
