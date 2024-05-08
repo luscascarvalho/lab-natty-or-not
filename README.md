@@ -9,16 +9,16 @@
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
+📒 Descrição
 Este ebook aborda a importância do CSS na criação de páginas web, destacando seus principais aspectos e benefícios.
 
-## 🤖 Tecnologias Utilizadas
+🤖 Tecnologias Utilizadas
 ChatGPT.
 
-## 🧐 Processo de Criação
+🧐 Processo de Criação
 O conteúdo foi criado de forma simples e direta, destacando os pontos-chave do CSS e sua relevância no design e na usabilidade de sites.
 
-## 🚀 Resultados
+🚀 Resultados
 # A Importância do CSS
 
 ## Introdução
